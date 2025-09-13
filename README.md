@@ -1,6 +1,8 @@
 # Real-time Location Tracker
 
 A real-time location tracking application using Node.js, Express, Socket.IO, and Leaflet maps.
+[![Live Backend](https://img.shields.io/badge/Live-Backend-brightgreen)](https://real-time-tracker-feh0.onrender.com)
+
 
 ## Main Components
 
